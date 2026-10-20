@@ -11,6 +11,7 @@ public class Main {
 
 		// Print information about the pets
         System.out.println("Welcome to Virtual Pets from Ben!");
+        System.out.println("Welcome to Virtual Pets from catcher!");
         dog.bark();
         cat.meow();
 
